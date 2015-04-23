@@ -4,7 +4,7 @@ Updating, Upgrading and Monitoring, right away from your mobile app. It’s abou
 
 ##Setup
 
-**For Android Studio user**: please see tag [android-studio-sdk](https://github.com/goupdating/android-studio-sdk), download the source codes, check out the Updating to see how the library works.
+**For Android Studio user**: please see [android-studio-sdk](https://github.com/goupdating/android-studio-sdk), download the source codes, check out the Updating to see how the library works.
 
 ####To start with
 

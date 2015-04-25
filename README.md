@@ -32,6 +32,8 @@ After integrating java code please ensure that your application's manifest(Andro
 <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 ```
 
+######Once every thing is done, download Updating App from [Google Play](http://play.google.com/store/apps/details?id=com.updating) or [Apple Store](http://apple.com) to monitor app statistics.
+
 ##Thanks to below libraries and Contributors
 
 #### [James Smith - loopj](http://loopj.com/android-async-http/)
